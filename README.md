@@ -1,2 +1,2 @@
 # Reporte-automatizado-UCIRAG
-Procesamiento datos ucirag en el año 2025 cerrado.
+Procesamiento datos ucirag en el año 2025 cerrado completo.
